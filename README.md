@@ -1,5 +1,5 @@
 # Powerfull PHP Uploader
-With this php uploader script you can only upload single files. <br><br>
+With this php uploader script you can only upload single files. <br>
 
 Code is easy to understand and have just to files (HTML + PHP) <br>
 
@@ -17,7 +17,6 @@ apt-get install git-all (Debian based) <br>
 OR <br>
 yum install git-all (RedHat based)<br>
 
-<br>
 git clone https://github.com/zectorpt/phpuploader.git<br>
 <br>
 Or... copy & paste and be happy... <br>
