@@ -1,7 +1,7 @@
 # Powerfull PHP Uploader
 With this php uploader script you can only upload single files. <br>
 
-Code is easy to understand and have just to files (HTML + PHP) <br>
+Code is easy to understand and have just two files (HTML + PHP) <br>
 
 Pre requirements: <br>
 apache+php<br>
